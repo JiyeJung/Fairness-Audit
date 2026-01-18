@@ -1,6 +1,6 @@
 # Auditing Distributional Fairness in LLM Judgments with LLooM
 
-This repository contains a small pilot audit of how different moderation policies change the distribution of LLM-based toxicity judgments.  
+This repository contains a small pilot (n=100) audit of how different moderation policies change the distribution of LLM-based toxicity judgments.  
 The goal is not to improve model accuracy, but to show how policy choices redistribute what gets flagged, and to characterize the types of content uniquely flagged under a stricter policy using LLooM concept analysis.
 
 ## What this project does
